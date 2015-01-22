@@ -19,7 +19,6 @@ support the choice.
 
 ## List of Standards
 
-* [Events](https://github.com/gilt/standards-events)
 * [Open Source](https://github.com/gilt/standards-open-source)
 * [REST](https://github.com/gilt/standards-rest)
 
