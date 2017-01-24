@@ -9,8 +9,8 @@
 
 ## Assess
   - [Cave](https://github.com/gilt/cave)
-  - [Prometheus](https://prometheus.io/)
-  - [Grafana](http://grafana.org/)
+  - [Prometheus](https://prometheus.io/) is an open-source systems monitoring and alerting toolkit originally built at SoundCloud. It is easy to configure and maintain. It has clients for most prominent languages (java, node, scala). It consists of multiple modules, two of which are Prometheus Alerts that provides great Alerting capabilites and the Node Exporter, that allows to export *plenty* of OS metrics
+  - [Grafana](http://grafana.org/) provides a powerful and elegant way to create, explore, and share dashboards and data with your team and the world. It is currently the most popular *grapher* used to display Prometheus data.
 
 ## Hold
 
