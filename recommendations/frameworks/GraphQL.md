@@ -1,5 +1,5 @@
-#GraphQL
+# GraphQL
 
-##Assess
+## Assess
 
 -[GraphQL] (http://graphql.org/learn/)
