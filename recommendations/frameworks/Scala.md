@@ -10,9 +10,15 @@
   - [Akka HTTP](http://doc.akka.io/docs/akka/2.4.11/scala/http/)
     We think that for writing lean microservices without a web
     frontend Akka HTTP offers an interesting approach without all the
-    (mostly not needed) bagagge that Play brings. Its integration with
+    (mostly not needed) baggage that Play brings. Its integration with
     Akka Stream and Akka Actors makes it the perfect fit for writing
     reactive, high-concurrent and resilient services.
+
+  - [http4s](http://http4s.org)/[circe](https://circe.github.io/circe)
+    A purely functional web stack including HTTP server and client components, as well as JSON de/serialization. Developed and maintained by the [typelevel scala](http://typelevel.org) community. Suitable for backend services, the http4s stack is small in memory footprint, efficient and fast. A number of teams in Gilt have used it successfully and we think it is worth taking a closer look and assessing its suitability. Apidoc has recently added support for generating http4s/circe http client and json de/serialization code.
+
+  - [doobie](https://github.com/tpolecat/doobie)
+    A purely functional JDBC library for Scala, with a minimal and yet expressive and type safe API, that avoids the pitfalls of ORMs with higher levels of abstraction.
 
 ## Hold
 
