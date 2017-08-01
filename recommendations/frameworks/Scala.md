@@ -15,10 +15,20 @@
     reactive, high-concurrent and resilient services.
 
   - [http4s](http://http4s.org)/[circe](https://circe.github.io/circe)
-    A purely functional web stack including HTTP server and client components, as well as JSON de/serialization. Developed and maintained by the [typelevel scala](http://typelevel.org) community. Suitable for backend services, the http4s stack is small in memory footprint, efficient and fast. A number of teams in Gilt have used it successfully and we think it is worth taking a closer look and assessing its suitability. Apidoc has recently added support for generating http4s/circe http client and json de/serialization code.
+    A purely functional web stack including HTTP server and client
+    components, as well as JSON de/serialization. Developed and
+    maintained by the [typelevel scala](http://typelevel.org)
+    community. Suitable for backend services, the http4s stack is
+    small in memory footprint, efficient and fast. A number of teams
+    in Gilt have used it successfully and we think it is worth taking
+    a closer look and assessing its suitability. Apidoc has recently
+    added support for generating http4s/circe http client and json
+    de/serialization code.
 
   - [doobie](https://github.com/tpolecat/doobie)
-    A purely functional JDBC library for Scala, with a minimal and yet expressive and type safe API, that avoids the pitfalls of ORMs with higher levels of abstraction.
+    A purely functional JDBC library for Scala, with a minimal and yet
+    expressive and type safe API, that avoids the pitfalls of ORMs
+    with higher levels of abstraction.
 
 ## Hold
 
