@@ -7,7 +7,10 @@
 ## Trial
 
   - [Sundial](https://github.com/gilt/sundial)
-    Scheduled workflow engine leveraging ECS to run arbitrary commands in docker containers.
+    Scheduled workflow engine leveraging ECS and/or AWS Batch to run jobs in docker containers with dependency graph management.
+
+  - [AWS Batch](https://aws.amazon.com/batch/)
+    AWS Service for managing running Docker jobs on ECS
 
 ## Assess
 
