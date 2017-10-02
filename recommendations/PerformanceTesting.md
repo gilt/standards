@@ -2,7 +2,7 @@
 
 ## Adopt
 
-- [Core Service Focused Performance Tests]
+#### Core Service Focused Performance Tests
 
 We think that in an Amazon Cloud scenario (where services can scale up
 and down subject to an appropriate load metric) a meaningful
@@ -42,7 +42,7 @@ ip address of the node (see this
 [gist](https://gist.github.com/umatrangolo/cf17f4f463cdd9efd33894fc60eb29de)
 as an example).
 
-- [Gatling]
+#### Gatling
 
 Writing an effective performance test able to verify that the most
 critical paths of your service are well prepared to handle a given
@@ -71,7 +71,7 @@ a proper CI pipeline (e.g. last step after deploying a canary).
 
 ## Hold
 
-- [Site Wide Performance Tests]
+#### Site Wide Performance Tests
 
 The current performance testing framework is based on a series of
 custom built, Gatling based, fat jars deployed on EC2 injector
