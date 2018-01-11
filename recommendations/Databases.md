@@ -14,6 +14,9 @@
   - [SOLR/Lucene](http://lucene.apache.org/solr/)
     - For indexed search, this is our most comfortable platform.
 
+## Assess
+  - [Aurora for Postgres](https://aws.amazon.com/rds/aurora)
+
 ## Hold
 
   - [MongoDB](https://www.mongodb.org/)
