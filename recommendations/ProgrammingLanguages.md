@@ -9,7 +9,7 @@
     - Services **Trial**
 
   - Kotlin
-    - Android **Assess**
+    - Android **Adopt**
 
   - Objective-C
     - iOS **Hold** (we should only be writing Objective-C when maintaining existing code in that language; new iOS code should be written in Swift)
