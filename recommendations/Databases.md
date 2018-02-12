@@ -13,6 +13,14 @@
     - See [Deployment.md](Deployment.md) for more commentary on deployment options
   - [SOLR/Lucene](http://lucene.apache.org/solr/)
     - For indexed search, this is our most comfortable platform.
+    
+## Trial
+  - [Elasticsearch](https://www.elastic.co/products/elasticsearch)
+    
+    - Potential replacement for SOLR.
+    - The built-in Zookeeper-like component (Zen) is designed to work in the cloud (this could solve SolrCloud random inconsistent 
+    state issues we experience).
+    - Support for automatic shard rebalancing useful for horizontal scaling.
 
 ## Hold
 
