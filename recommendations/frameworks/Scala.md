@@ -5,14 +5,7 @@
 
   - [Play](https://www.playframework.com/)
 
-## Assess
-
-  - [Akka HTTP](http://doc.akka.io/docs/akka/2.4.11/scala/http/)
-    We think that for writing lean microservices without a web
-    frontend Akka HTTP offers an interesting approach without all the
-    (mostly not needed) baggage that Play brings. Its integration with
-    Akka Stream and Akka Actors makes it the perfect fit for writing
-    reactive, high-concurrent and resilient services.
+## Trial
 
   - [http4s](http://http4s.org)/[circe](https://circe.github.io/circe)
     A purely functional web stack including HTTP server and client
@@ -29,6 +22,15 @@
     A purely functional JDBC library for Scala, with a minimal and yet
     expressive and type safe API, that avoids the pitfalls of ORMs
     with higher levels of abstraction.
+
+## Assess
+
+  - [Akka HTTP](http://doc.akka.io/docs/akka/2.4.11/scala/http/)
+    We think that for writing lean microservices without a web
+    frontend Akka HTTP offers an interesting approach without all the
+    (mostly not needed) baggage that Play brings. Its integration with
+    Akka Stream and Akka Actors makes it the perfect fit for writing
+    reactive, high-concurrent and resilient services.
 
 ## Hold
 
