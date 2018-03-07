@@ -12,6 +12,9 @@
   - [AWS Batch](https://aws.amazon.com/batch/)
     AWS Service for managing running Docker jobs on ECS
 
+  - [Airflow](https://github.com/apache/incubator-airflow)
+  - Apache incubator project from AirB&B, Expandable DAG based job system 
+
 ## Assess
 
   - Amazon Simple Work Flow
